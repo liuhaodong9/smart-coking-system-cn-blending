@@ -1,0 +1,228 @@
+\indexentry{module@\spxentry{module}!coalData@\spxentry{coalData}}{7}
+\indexentry{coalData@\spxentry{coalData}!module@\spxentry{module}}{7}
+\indexentry{CoalDataGeneration (class in coalData)@\spxentry{CoalDataGeneration}\spxextra{class in coalData}}{7}
+\indexentry{Al2O3 (coalData.CoalDataGeneration attribute)@\spxentry{Al2O3}\spxextra{coalData.CoalDataGeneration attribute}}{7}
+\indexentry{CaO (coalData.CoalDataGeneration attribute)@\spxentry{CaO}\spxextra{coalData.CoalDataGeneration attribute}}{7}
+\indexentry{DT (coalData.CoalDataGeneration attribute)@\spxentry{DT}\spxextra{coalData.CoalDataGeneration attribute}}{7}
+\indexentry{E (coalData.CoalDataGeneration attribute)@\spxentry{E}\spxextra{coalData.CoalDataGeneration attribute}}{7}
+\indexentry{FT (coalData.CoalDataGeneration attribute)@\spxentry{FT}\spxextra{coalData.CoalDataGeneration attribute}}{7}
+\indexentry{Fe2O3 (coalData.CoalDataGeneration attribute)@\spxentry{Fe2O3}\spxextra{coalData.CoalDataGeneration attribute}}{7}
+\indexentry{G (coalData.CoalDataGeneration attribute)@\spxentry{G}\spxextra{coalData.CoalDataGeneration attribute}}{7}
+\indexentry{HT (coalData.CoalDataGeneration attribute)@\spxentry{HT}\spxextra{coalData.CoalDataGeneration attribute}}{7}
+\indexentry{I (coalData.CoalDataGeneration attribute)@\spxentry{I}\spxextra{coalData.CoalDataGeneration attribute}}{7}
+\indexentry{K2O (coalData.CoalDataGeneration attribute)@\spxentry{K2O}\spxextra{coalData.CoalDataGeneration attribute}}{7}
+\indexentry{M (coalData.CoalDataGeneration attribute)@\spxentry{M}\spxextra{coalData.CoalDataGeneration attribute}}{7}
+\indexentry{MgO (coalData.CoalDataGeneration attribute)@\spxentry{MgO}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{Na2O (coalData.CoalDataGeneration attribute)@\spxentry{Na2O}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{P2O5 (coalData.CoalDataGeneration attribute)@\spxentry{P2O5}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{Rmax (coalData.CoalDataGeneration attribute)@\spxentry{Rmax}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{SO3 (coalData.CoalDataGeneration attribute)@\spxentry{SO3}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{ST (coalData.CoalDataGeneration attribute)@\spxentry{ST}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{SiO2 (coalData.CoalDataGeneration attribute)@\spxentry{SiO2}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{T1 (coalData.CoalDataGeneration attribute)@\spxentry{T1}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{T2 (coalData.CoalDataGeneration attribute)@\spxentry{T2}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{T3 (coalData.CoalDataGeneration attribute)@\spxentry{T3}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{TiO2 (coalData.CoalDataGeneration attribute)@\spxentry{TiO2}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{Tk (coalData.CoalDataGeneration attribute)@\spxentry{Tk}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{Tk\_Tp (coalData.CoalDataGeneration attribute)@\spxentry{Tk\_Tp}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{Tmax (coalData.CoalDataGeneration attribute)@\spxentry{Tmax}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{Tp (coalData.CoalDataGeneration attribute)@\spxentry{Tp}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{V (coalData.CoalDataGeneration attribute)@\spxentry{V}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{X (coalData.CoalDataGeneration attribute)@\spxentry{X}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{Y (coalData.CoalDataGeneration attribute)@\spxentry{Y}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{a (coalData.CoalDataGeneration attribute)@\spxentry{a}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{amax (coalData.CoalDataGeneration attribute)@\spxentry{amax}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{ash\_total (coalData.CoalDataGeneration attribute)@\spxentry{ash\_total}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{b (coalData.CoalDataGeneration attribute)@\spxentry{b}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{center\_100\_time (coalData.CoalDataGeneration attribute)@\spxentry{center\_100\_time}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{center\_500\_time (coalData.CoalDataGeneration attribute)@\spxentry{center\_500\_time}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{center\_900\_time (coalData.CoalDataGeneration attribute)@\spxentry{center\_900\_time}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{coal\_ad (coalData.CoalDataGeneration attribute)@\spxentry{coal\_ad}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{coal\_ada (coalData.CoalDataGeneration attribute)@\spxentry{coal\_ada}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{coal\_ana\_cad (coalData.CoalDataGeneration attribute)@\spxentry{coal\_ana\_cad}\spxextra{coalData.CoalDataGeneration attribute}}{8}
+\indexentry{coal\_ana\_had (coalData.CoalDataGeneration attribute)@\spxentry{coal\_ana\_had}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_ana\_nad (coalData.CoalDataGeneration attribute)@\spxentry{coal\_ana\_nad}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_ana\_oad (coalData.CoalDataGeneration attribute)@\spxentry{coal\_ana\_oad}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_belong (coalData.CoalDataGeneration attribute)@\spxentry{coal\_belong}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_dry\_cd (coalData.CoalDataGeneration attribute)@\spxentry{coal\_dry\_cd}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_dry\_hd (coalData.CoalDataGeneration attribute)@\spxentry{coal\_dry\_hd}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_dry\_nd (coalData.CoalDataGeneration attribute)@\spxentry{coal\_dry\_nd}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_dry\_od (coalData.CoalDataGeneration attribute)@\spxentry{coal\_dry\_od}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_drynoash\_cdaf (coalData.CoalDataGeneration attribute)@\spxentry{coal\_drynoash\_cdaf}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_drynoash\_hdaf (coalData.CoalDataGeneration attribute)@\spxentry{coal\_drynoash\_hdaf}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_drynoash\_ndaf (coalData.CoalDataGeneration attribute)@\spxentry{coal\_drynoash\_ndaf}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_drynoash\_odaf (coalData.CoalDataGeneration attribute)@\spxentry{coal\_drynoash\_odaf}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_fcad (coalData.CoalDataGeneration attribute)@\spxentry{coal\_fcad}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_fcd (coalData.CoalDataGeneration attribute)@\spxentry{coal\_fcd}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_mad (coalData.CoalDataGeneration attribute)@\spxentry{coal\_mad}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_name (coalData.CoalDataGeneration attribute)@\spxentry{coal\_name}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_price (coalData.CoalDataGeneration attribute)@\spxentry{coal\_price}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_std (coalData.CoalDataGeneration attribute)@\spxentry{coal\_std}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_type (coalData.CoalDataGeneration attribute)@\spxentry{coal\_type}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_vad (coalData.CoalDataGeneration attribute)@\spxentry{coal\_vad}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_vd (coalData.CoalDataGeneration attribute)@\spxentry{coal\_vd}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coal\_vdaf (coalData.CoalDataGeneration attribute)@\spxentry{coal\_vdaf}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coke\_1000 (coalData.CoalDataGeneration attribute)@\spxentry{coke\_1000}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coke\_1050 (coalData.CoalDataGeneration attribute)@\spxentry{coke\_1050}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coke\_10mm (coalData.CoalDataGeneration attribute)@\spxentry{coke\_10mm}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coke\_1100 (coalData.CoalDataGeneration attribute)@\spxentry{coke\_1100}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coke\_1150 (coalData.CoalDataGeneration attribute)@\spxentry{coke\_1150}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coke\_1200 (coalData.CoalDataGeneration attribute)@\spxentry{coke\_1200}\spxextra{coalData.CoalDataGeneration attribute}}{9}
+\indexentry{coke\_20\_10mm (coalData.CoalDataGeneration attribute)@\spxentry{coke\_20\_10mm}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_25\_20mm (coalData.CoalDataGeneration attribute)@\spxentry{coke\_25\_20mm}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_40\_25mm (coalData.CoalDataGeneration attribute)@\spxentry{coke\_40\_25mm}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_5mm (coalData.CoalDataGeneration attribute)@\spxentry{coke\_5mm}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_60\_40mm (coalData.CoalDataGeneration attribute)@\spxentry{coke\_60\_40mm}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_60mm (coalData.CoalDataGeneration attribute)@\spxentry{coke\_60mm}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_750 (coalData.CoalDataGeneration attribute)@\spxentry{coke\_750}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_800 (coalData.CoalDataGeneration attribute)@\spxentry{coke\_800}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_80\_60mm (coalData.CoalDataGeneration attribute)@\spxentry{coke\_80\_60mm}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_80mm (coalData.CoalDataGeneration attribute)@\spxentry{coke\_80mm}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_850 (coalData.CoalDataGeneration attribute)@\spxentry{coke\_850}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_900 (coalData.CoalDataGeneration attribute)@\spxentry{coke\_900}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_950 (coalData.CoalDataGeneration attribute)@\spxentry{coke\_950}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_CRI (coalData.CoalDataGeneration attribute)@\spxentry{coke\_CRI}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_CSR (coalData.CoalDataGeneration attribute)@\spxentry{coke\_CSR}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_DT (coalData.CoalDataGeneration attribute)@\spxentry{coke\_DT}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_FT (coalData.CoalDataGeneration attribute)@\spxentry{coke\_FT}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_HT (coalData.CoalDataGeneration attribute)@\spxentry{coke\_HT}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_M10 (coalData.CoalDataGeneration attribute)@\spxentry{coke\_M10}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_M25 (coalData.CoalDataGeneration attribute)@\spxentry{coke\_M25}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_M40 (coalData.CoalDataGeneration attribute)@\spxentry{coke\_M40}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_ST (coalData.CoalDataGeneration attribute)@\spxentry{coke\_ST}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_aad (coalData.CoalDataGeneration attribute)@\spxentry{coke\_aad}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_ad (coalData.CoalDataGeneration attribute)@\spxentry{coke\_ad}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_apparent\_porosity (coalData.CoalDataGeneration attribute)@\spxentry{coke\_apparent\_porosity}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_fake\_density (coalData.CoalDataGeneration attribute)@\spxentry{coke\_fake\_density}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_fcad (coalData.CoalDataGeneration attribute)@\spxentry{coke\_fcad}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_fcd (coalData.CoalDataGeneration attribute)@\spxentry{coke\_fcd}\spxextra{coalData.CoalDataGeneration attribute}}{10}
+\indexentry{coke\_fineness (coalData.CoalDataGeneration attribute)@\spxentry{coke\_fineness}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{coke\_mad (coalData.CoalDataGeneration attribute)@\spxentry{coke\_mad}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{coke\_moi (coalData.CoalDataGeneration attribute)@\spxentry{coke\_moi}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{coke\_real\_density (coalData.CoalDataGeneration attribute)@\spxentry{coke\_real\_density}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{coke\_std (coalData.CoalDataGeneration attribute)@\spxentry{coke\_std}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{coke\_sum (coalData.CoalDataGeneration attribute)@\spxentry{coke\_sum}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{coke\_total\_ratio (coalData.CoalDataGeneration attribute)@\spxentry{coke\_total\_ratio}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{coke\_vad (coalData.CoalDataGeneration attribute)@\spxentry{coke\_vad}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{coke\_vd (coalData.CoalDataGeneration attribute)@\spxentry{coke\_vd}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{coke\_vdaf (coalData.CoalDataGeneration attribute)@\spxentry{coke\_vdaf}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{coking\_date (coalData.CoalDataGeneration attribute)@\spxentry{coking\_date}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{coking\_end\_temp (coalData.CoalDataGeneration attribute)@\spxentry{coking\_end\_temp}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{coking\_end\_time (coalData.CoalDataGeneration attribute)@\spxentry{coking\_end\_time}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{coking\_process\_time (coalData.CoalDataGeneration attribute)@\spxentry{coking\_process\_time}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{coking\_start\_time (coalData.CoalDataGeneration attribute)@\spxentry{coking\_start\_time}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{coking\_style (coalData.CoalDataGeneration attribute)@\spxentry{coking\_style}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{down\_number (coalData.CoalDataGeneration attribute)@\spxentry{down\_number}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{dry\_quality (coalData.CoalDataGeneration attribute)@\spxentry{dry\_quality}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{heap\_density (coalData.CoalDataGeneration attribute)@\spxentry{heap\_density}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{hot\_coke\_qulity (coalData.CoalDataGeneration attribute)@\spxentry{hot\_coke\_qulity}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{hot\_ratio\_coke (coalData.CoalDataGeneration attribute)@\spxentry{hot\_ratio\_coke}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{id (coalData.CoalDataGeneration attribute)@\spxentry{id}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{live\_idle\_ratio (coalData.CoalDataGeneration attribute)@\spxentry{live\_idle\_ratio}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{micro\_type (coalData.CoalDataGeneration attribute)@\spxentry{micro\_type}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{micro\_var (coalData.CoalDataGeneration attribute)@\spxentry{micro\_var}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{ori\_coal\_05mm (coalData.CoalDataGeneration attribute)@\spxentry{ori\_coal\_05mm}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{ori\_coal\_10\_8mm (coalData.CoalDataGeneration attribute)@\spxentry{ori\_coal\_10\_8mm}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{ori\_coal\_13\_10mm (coalData.CoalDataGeneration attribute)@\spxentry{ori\_coal\_13\_10mm}\spxextra{coalData.CoalDataGeneration attribute}}{11}
+\indexentry{ori\_coal\_13mm (coalData.CoalDataGeneration attribute)@\spxentry{ori\_coal\_13mm}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{ori\_coal\_1\_05mm (coalData.CoalDataGeneration attribute)@\spxentry{ori\_coal\_1\_05mm}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{ori\_coal\_2\_1mm (coalData.CoalDataGeneration attribute)@\spxentry{ori\_coal\_2\_1mm}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{ori\_coal\_3\_2mm (coalData.CoalDataGeneration attribute)@\spxentry{ori\_coal\_3\_2mm}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{ori\_coal\_4\_3mm (coalData.CoalDataGeneration attribute)@\spxentry{ori\_coal\_4\_3mm}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{ori\_coal\_5\_4mm (coalData.CoalDataGeneration attribute)@\spxentry{ori\_coal\_5\_4mm}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{ori\_coal\_6\_5mm (coalData.CoalDataGeneration attribute)@\spxentry{ori\_coal\_6\_5mm}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{ori\_coal\_8\_6mm (coalData.CoalDataGeneration attribute)@\spxentry{ori\_coal\_8\_6mm}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{ori\_coal\_fineness (coalData.CoalDataGeneration attribute)@\spxentry{ori\_coal\_fineness}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{ori\_coal\_total (coalData.CoalDataGeneration attribute)@\spxentry{ori\_coal\_total}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{oven\_moi (coalData.CoalDataGeneration attribute)@\spxentry{oven\_moi}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{oven\_type (coalData.CoalDataGeneration attribute)@\spxentry{oven\_type}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{predicted\_CRI (coalData.CoalDataGeneration attribute)@\spxentry{predicted\_CRI}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{predicted\_CRI\_error (coalData.CoalDataGeneration attribute)@\spxentry{predicted\_CRI\_error}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{predicted\_CRI\_expert (coalData.CoalDataGeneration attribute)@\spxentry{predicted\_CRI\_expert}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{predicted\_CSR (coalData.CoalDataGeneration attribute)@\spxentry{predicted\_CSR}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{predicted\_CSR\_error (coalData.CoalDataGeneration attribute)@\spxentry{predicted\_CSR\_error}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{predicted\_CSR\_expert (coalData.CoalDataGeneration attribute)@\spxentry{predicted\_CSR\_expert}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{predicted\_M10 (coalData.CoalDataGeneration attribute)@\spxentry{predicted\_M10}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{predicted\_M10\_error (coalData.CoalDataGeneration attribute)@\spxentry{predicted\_M10\_error}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{predicted\_M10\_expert (coalData.CoalDataGeneration attribute)@\spxentry{predicted\_M10\_expert}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{predicted\_M25 (coalData.CoalDataGeneration attribute)@\spxentry{predicted\_M25}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{predicted\_M25\_error (coalData.CoalDataGeneration attribute)@\spxentry{predicted\_M25\_error}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{predicted\_M25\_expert (coalData.CoalDataGeneration attribute)@\spxentry{predicted\_M25\_expert}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{quench\_coke\_weight (coalData.CoalDataGeneration attribute)@\spxentry{quench\_coke\_weight}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{query (coalData.CoalDataGeneration attribute)@\spxentry{query}\spxextra{coalData.CoalDataGeneration attribute}}{12}
+\indexentry{ratio\_coke (coalData.CoalDataGeneration attribute)@\spxentry{ratio\_coke}\spxextra{coalData.CoalDataGeneration attribute}}{13}
+\indexentry{response() (coalData.CoalDataGeneration method)@\spxentry{response()}\spxextra{coalData.CoalDataGeneration method}}{13}
+\indexentry{sma\_\_coal\_05mm (coalData.CoalDataGeneration attribute)@\spxentry{sma\_\_coal\_05mm}\spxextra{coalData.CoalDataGeneration attribute}}{13}
+\indexentry{sma\_\_coal\_1\_05mm (coalData.CoalDataGeneration attribute)@\spxentry{sma\_\_coal\_1\_05mm}\spxextra{coalData.CoalDataGeneration attribute}}{13}
+\indexentry{sma\_\_coal\_2\_1mm (coalData.CoalDataGeneration attribute)@\spxentry{sma\_\_coal\_2\_1mm}\spxextra{coalData.CoalDataGeneration attribute}}{13}
+\indexentry{sma\_\_coal\_3\_2mm (coalData.CoalDataGeneration attribute)@\spxentry{sma\_\_coal\_3\_2mm}\spxextra{coalData.CoalDataGeneration attribute}}{13}
+\indexentry{sma\_\_coal\_4\_3mm (coalData.CoalDataGeneration attribute)@\spxentry{sma\_\_coal\_4\_3mm}\spxextra{coalData.CoalDataGeneration attribute}}{13}
+\indexentry{sma\_\_coal\_5\_4mm (coalData.CoalDataGeneration attribute)@\spxentry{sma\_\_coal\_5\_4mm}\spxextra{coalData.CoalDataGeneration attribute}}{13}
+\indexentry{sma\_\_coal\_6\_5mm (coalData.CoalDataGeneration attribute)@\spxentry{sma\_\_coal\_6\_5mm}\spxextra{coalData.CoalDataGeneration attribute}}{13}
+\indexentry{sma\_\_coal\_6mm (coalData.CoalDataGeneration attribute)@\spxentry{sma\_\_coal\_6mm}\spxextra{coalData.CoalDataGeneration attribute}}{13}
+\indexentry{sma\_\_coal\_total (coalData.CoalDataGeneration attribute)@\spxentry{sma\_\_coal\_total}\spxextra{coalData.CoalDataGeneration attribute}}{13}
+\indexentry{sma\_coal\_fineness (coalData.CoalDataGeneration attribute)@\spxentry{sma\_coal\_fineness}\spxextra{coalData.CoalDataGeneration attribute}}{14}
+\indexentry{sma\_coal\_moi (coalData.CoalDataGeneration attribute)@\spxentry{sma\_coal\_moi}\spxextra{coalData.CoalDataGeneration attribute}}{14}
+\indexentry{up\_temper (coalData.CoalDataGeneration attribute)@\spxentry{up\_temper}\spxextra{coalData.CoalDataGeneration attribute}}{14}
+\indexentry{module@\spxentry{module}!coal\_quality\_model\_AI@\spxentry{coal\_quality\_model\_AI}}{15}
+\indexentry{coal\_quality\_model\_AI@\spxentry{coal\_quality\_model\_AI}!module@\spxentry{module}}{15}
+\indexentry{module@\spxentry{module}!DataProcess@\spxentry{DataProcess}}{17}
+\indexentry{DataProcess@\spxentry{DataProcess}!module@\spxentry{module}}{17}
+\indexentry{dataRebuild() (in module DataProcess)@\spxentry{dataRebuild()}\spxextra{in module DataProcess}}{17}
+\indexentry{dataclean() (in module DataProcess)@\spxentry{dataclean()}\spxextra{in module DataProcess}}{17}
+\indexentry{module@\spxentry{module}!Example@\spxentry{Example}}{19}
+\indexentry{Example@\spxentry{Example}!module@\spxentry{module}}{19}
+\indexentry{module@\spxentry{module}!genetic\_algorithm\_geatpy1@\spxentry{genetic\_algorithm\_geatpy1}}{21}
+\indexentry{genetic\_algorithm\_geatpy1@\spxentry{genetic\_algorithm\_geatpy1}!module@\spxentry{module}}{21}
+\indexentry{MyProblem (class in genetic\_algorithm\_geatpy1)@\spxentry{MyProblem}\spxextra{class in genetic\_algorithm\_geatpy1}}{21}
+\indexentry{aimFunc() (genetic\_algorithm\_geatpy1.MyProblem method)@\spxentry{aimFunc()}\spxextra{genetic\_algorithm\_geatpy1.MyProblem method}}{21}
+\indexentry{module@\spxentry{module}!genetic\_algorithm\_geatpy2@\spxentry{genetic\_algorithm\_geatpy2}}{23}
+\indexentry{genetic\_algorithm\_geatpy2@\spxentry{genetic\_algorithm\_geatpy2}!module@\spxentry{module}}{23}
+\indexentry{module@\spxentry{module}!login@\spxentry{login}}{25}
+\indexentry{login@\spxentry{login}!module@\spxentry{module}}{25}
+\indexentry{ClassifyUserCoalData() (in module login)@\spxentry{ClassifyUserCoalData()}\spxextra{in module login}}{25}
+\indexentry{DownloaUserGuide() (in module login)@\spxentry{DownloaUserGuide()}\spxextra{in module login}}{26}
+\indexentry{Download() (in module login)@\spxentry{Download()}\spxextra{in module login}}{26}
+\indexentry{deleteCoalData() (in module login)@\spxentry{deleteCoalData()}\spxextra{in module login}}{27}
+\indexentry{get31JiaoCoalgData() (in module login)@\spxentry{get31JiaoCoalgData()}\spxextra{in module login}}{28}
+\indexentry{getClassifyData() (in module login)@\spxentry{getClassifyData()}\spxextra{in module login}}{29}
+\indexentry{getClassifyResult() (in module login)@\spxentry{getClassifyResult()}\spxextra{in module login}}{30}
+\indexentry{getCokeQualityResultAIDecisionTree() (in module login)@\spxentry{getCokeQualityResultAIDecisionTree()}\spxextra{in module login}}{31}
+\indexentry{getCokeQualityfyeResultAI() (in module login)@\spxentry{getCokeQualityfyeResultAI()}\spxextra{in module login}}{33}
+\indexentry{getCokeQualityfyeResultAIKNN() (in module login)@\spxentry{getCokeQualityfyeResultAIKNN()}\spxextra{in module login}}{33}
+\indexentry{getCokeQualityfyeResultAILinear() (in module login)@\spxentry{getCokeQualityfyeResultAILinear()}\spxextra{in module login}}{35}
+\indexentry{getCokeQualityfyeResultAIRF() (in module login)@\spxentry{getCokeQualityfyeResultAIRF()}\spxextra{in module login}}{35}
+\indexentry{getCokeQualityfyeResultAISVR() (in module login)@\spxentry{getCokeQualityfyeResultAISVR()}\spxextra{in module login}}{37}
+\indexentry{getCokeQualityfyeResultAIXGBoost() (in module login)@\spxentry{getCokeQualityfyeResultAIXGBoost()}\spxextra{in module login}}{39}
+\indexentry{getCokeQualityfyeResultCNN() (in module login)@\spxentry{getCokeQualityfyeResultCNN()}\spxextra{in module login}}{40}
+\indexentry{getData() (in module login)@\spxentry{getData()}\spxextra{in module login}}{42}
+\indexentry{getDetailedData() (in module login)@\spxentry{getDetailedData()}\spxextra{in module login}}{43}
+\indexentry{getFeiCoalgData() (in module login)@\spxentry{getFeiCoalgData()}\spxextra{in module login}}{44}
+\indexentry{getJiaoCoalData() (in module login)@\spxentry{getJiaoCoalData()}\spxextra{in module login}}{45}
+\indexentry{getQiCoalData() (in module login)@\spxentry{getQiCoalData()}\spxextra{in module login}}{45}
+\indexentry{getQiFeiCoalData() (in module login)@\spxentry{getQiFeiCoalData()}\spxextra{in module login}}{46}
+\indexentry{getShouCoalData() (in module login)@\spxentry{getShouCoalData()}\spxextra{in module login}}{47}
+\indexentry{login() (in module login)@\spxentry{login()}\spxextra{in module login}}{48}
+\indexentry{predictBestRatio() (in module login)@\spxentry{predictBestRatio()}\spxextra{in module login}}{49}
+\indexentry{predictBlendCoal() (in module login)@\spxentry{predictBlendCoal()}\spxextra{in module login}}{50}
+\indexentry{setup\_seed() (in module login)@\spxentry{setup\_seed()}\spxextra{in module login}}{52}
+\indexentry{uploadClassifyResult() (in module login)@\spxentry{uploadClassifyResult()}\spxextra{in module login}}{53}
+\indexentry{uploadCoalData() (in module login)@\spxentry{uploadCoalData()}\spxextra{in module login}}{54}
+\indexentry{uploadQualityResult() (in module login)@\spxentry{uploadQualityResult()}\spxextra{in module login}}{55}
+\indexentry{uploadUserClassifyResult() (in module login)@\spxentry{uploadUserClassifyResult()}\spxextra{in module login}}{56}
+\indexentry{uploadUserCoalData() (in module login)@\spxentry{uploadUserCoalData()}\spxextra{in module login}}{56}
+\indexentry{module@\spxentry{module}!ModelPredict@\spxentry{ModelPredict}}{59}
+\indexentry{ModelPredict@\spxentry{ModelPredict}!module@\spxentry{module}}{59}
+\indexentry{centerresult() (in module ModelPredict)@\spxentry{centerresult()}\spxextra{in module ModelPredict}}{59}
+\indexentry{distancecal() (in module ModelPredict)@\spxentry{distancecal()}\spxextra{in module ModelPredict}}{59}
+\indexentry{modelpredict() (in module ModelPredict)@\spxentry{modelpredict()}\spxextra{in module ModelPredict}}{59}
+\indexentry{singlepred() (in module ModelPredict)@\spxentry{singlepred()}\spxextra{in module ModelPredict}}{59}
+\indexentry{valuebycenter() (in module ModelPredict)@\spxentry{valuebycenter()}\spxextra{in module ModelPredict}}{59}
+\indexentry{votePre() (in module ModelPredict)@\spxentry{votePre()}\spxextra{in module ModelPredict}}{59}
+\indexentry{module@\spxentry{module}!typeClassfication@\spxentry{typeClassfication}}{61}
+\indexentry{typeClassfication@\spxentry{typeClassfication}!module@\spxentry{module}}{61}
+\indexentry{coalcal() (in module typeClassfication)@\spxentry{coalcal()}\spxextra{in module typeClassfication}}{61}
+\indexentry{coaltype() (in module typeClassfication)@\spxentry{coaltype()}\spxextra{in module typeClassfication}}{61}
+\indexentry{coaltypefind() (in module typeClassfication)@\spxentry{coaltypefind()}\spxextra{in module typeClassfication}}{61}
+\indexentry{nanlocation() (in module typeClassfication)@\spxentry{nanlocation()}\spxextra{in module typeClassfication}}{61}
+\indexentry{nullreplace() (in module typeClassfication)@\spxentry{nullreplace()}\spxextra{in module typeClassfication}}{61}

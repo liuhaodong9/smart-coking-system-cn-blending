@@ -1,0 +1,243 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en">
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>安装指南 &mdash; Smart Coking System Documentation v1.0.1 documentation</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=92fd9be5" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css?v=e59714d7" />
+      <link rel="stylesheet" type="text/css" href="../_static/sg_gallery.css?v=d2d258e8" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/modify.css?v=49f62740" />
+
+  
+      <script src="../_static/jquery.js?v=5d32c60e"></script>
+      <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js?v=aabfef7a"></script>
+      <script src="../_static/doctools.js?v=888ff710"></script>
+      <script src="../_static/sphinx_highlight.js?v=4825356b"></script>
+      <script crossorigin="anonymous" integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA=" src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="coalData module" href="../api/coalData.html" />
+    <link rel="prev" title="概述" href="overview.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../index.html" class="icon icon-home">
+            Smart Coking System Documentation
+              <img src="../_static/logo.png" class="logo" alt="Logo"/>
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">User Documentation</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="overview.html">概述</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">安装指南</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#id2">前端运行</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id3">后端运行</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#id4">数据库安装</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#ssh">SSH远程服务器运行网站(可选)</a></li>
+</ul>
+</li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">API Reference</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../api/coalData.html">coalData module</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../api/coal_quality_model_AI.html">coal_quality_model_AI module</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../api/DataProcess.html">DataProcess Module</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../api/Example.html">Example module</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../api/genetic_algorithm_geatpy1.html">genetic_algorithm_geatpy1 module</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../api/genetic_algorithm_geatpy2.html">genetic_algorithm_geatpy2 module</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../api/login.html">login module</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../api/ModelPredict.html">ModelPredict module</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../api/typeClassfication.html">typeClassfication module</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">Smart Coking System Documentation</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">安装指南</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/user/installation.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="id1">
+<h1>安装指南<a class="headerlink" href="#id1" title="Permalink to this heading"></a></h1>
+<p>本指南提供了设置和运行项目前端、后端和数据库的步骤，以及使用 TensorFlow 进行 GPU 加速所需的 CUDA 安装方法。</p>
+<section id="id2">
+<h2>前端运行<a class="headerlink" href="#id2" title="Permalink to this heading"></a></h2>
+<ol class="arabic">
+<li><p><strong>Vue 环境</strong>：
+项目不需要单独安装 Vue.js，<cite>node_modules</cite> 目录中已包含所有必要的依赖，依赖项已在 <cite>package.json</cite> 文件中列出。</p></li>
+<li><p><strong>运行前端</strong>：
+导航到项目的根目录smart-coking-system-newpc_2。打开终端并运行以下命令启动前端：</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>npm<span class="w"> </span>run<span class="w"> </span>serve
+</pre></div>
+</div>
+<img alt="前端运行结果1" src="../_images/%E5%89%8D%E7%AB%AF%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C1.png" />
+<img alt="前端运行结果2" src="../_images/%E5%89%8D%E7%AB%AF%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C2.png" />
+</li>
+</ol>
+</section>
+<hr class="docutils" />
+<section id="id3">
+<h2>后端运行<a class="headerlink" href="#id3" title="Permalink to this heading"></a></h2>
+<ol class="arabic">
+<li><p><strong>创建虚拟环境</strong>：
+推荐使用 Anaconda 创建 Python 3.8 虚拟环境，并安装所需的依赖项。运行以下命令：</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>conda<span class="w"> </span>create<span class="w"> </span>-n<span class="w"> </span>coke<span class="w"> </span><span class="nv">python</span><span class="o">=</span><span class="m">3</span>.8
+conda<span class="w"> </span>activate<span class="w"> </span>coke
+pip<span class="w"> </span>install<span class="w"> </span><span class="nv">cudatoolkit</span><span class="o">=</span><span class="m">11</span>.2
+pip<span class="w"> </span>install<span class="w"> </span>tensorflow-gpu<span class="o">==</span><span class="m">2</span>.10
+conda<span class="w"> </span>install<span class="w"> </span><span class="nv">cudnn</span><span class="o">=</span><span class="m">8</span>.1<span class="w"> </span>-c<span class="w"> </span>conda-forge
+</pre></div>
+</div>
+<p><strong>注意</strong>：如果您没有 GPU，可以完全忽略 <cite>tensorflow-gpu</cite> 的安装。</p>
+</li>
+<li><p><strong>安装依赖项</strong>：
+进入虚拟环境后，运行以下命令安装 Flask 和其他必要依赖：</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>pip<span class="w"> </span>install<span class="w"> </span><span class="nv">Flask</span><span class="o">==</span><span class="m">2</span>.2.2<span class="w"> </span>Flask-Cors<span class="o">==</span><span class="m">3</span>.0.10<span class="w"> </span>Flask-SQLAlchemy<span class="o">==</span><span class="m">3</span>.0.2<span class="w"> </span><span class="nv">geatpy</span><span class="o">==</span><span class="m">2</span>.7.0<span class="w"> </span><span class="nv">numpy</span><span class="o">==</span><span class="m">1</span>.23.4<span class="w"> </span><span class="nv">pandas</span><span class="o">==</span><span class="m">1</span>.5.1<span class="w"> </span><span class="nv">PyMySQL</span><span class="o">==</span><span class="m">1</span>.0.2<span class="w"> </span>scikit-learn<span class="o">==</span><span class="m">0</span>.24.2<span class="w"> </span><span class="nv">SQLAlchemy</span><span class="o">==</span><span class="m">1</span>.4.44<span class="w"> </span><span class="nv">Werkzeug</span><span class="o">==</span><span class="m">2</span>.2.2<span class="w"> </span>memory-profiler<span class="o">==</span><span class="m">0</span>.61.0
+</pre></div>
+</div>
+</li>
+<li><p><strong>启动后端</strong>：
+通过运行 <cite>login.py</cite> 启动后端，5000端口表示成功启动 Flask 应用：</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>python<span class="w"> </span>login.py
+</pre></div>
+</div>
+<img alt="后端运行结果" src="../_images/%E5%90%8E%E7%AB%AF%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png" />
+</li>
+</ol>
+</section>
+<hr class="docutils" />
+<section id="id4">
+<h2>数据库安装<a class="headerlink" href="#id4" title="Permalink to this heading"></a></h2>
+<ol class="arabic">
+<li><p><strong>安装 MySQL 数据库</strong>：
+下载并安装 MySQL。有关配置的指南，请参考以下教程：<a class="reference external" href="https://www.jb51.net/database/324331zkx.htm">https://www.jb51.net/database/324331zkx.htm</a>。确保将 MySQL 添加到系统环境变量中。</p></li>
+<li><p><strong>安装 Navicat Premium Lite</strong>：
+Navicat Premium Lite 是一个免费的 MySQL 可视化工具。可从以下链接下载：<a class="reference external" href="https://www.navicat.com.cn/download/navicat-premium-lite">https://www.navicat.com.cn/download/navicat-premium-lite</a>。</p></li>
+<li><p><strong>创建数据库</strong>：
+- 在 Navicat 中，新建一个 MySQL 连接，填写用户名和密码。
+- 创建一个新数据库，例如 <cite>CoalData_table.csv</cite>。
+- 导入提供的示例 CSV 数据，选择 “csv” 格式。
+- 在导入过程中，选择 <strong>高级选项</strong> 并勾选 <strong>使用 NULL 替换空字符串</strong>。</p>
+<img alt="数据库设置1" src="../_images/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E7%BD%AE1.png" />
+<img alt="数据库设置2" src="../_images/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E7%BD%AE2.png" />
+<img alt="数据库设置3" src="../_images/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E7%BD%AE3.png" />
+<img alt="数据库设置4" src="../_images/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E7%BD%AE4.png" />
+<img alt="数据库设置5" src="../_images/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E7%BD%AE5.png" />
+<img alt="数据库设置6" src="../_images/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E7%BD%AE6.png" />
+<img alt="数据库设置7" src="../_images/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E7%BD%AE7.png" />
+</li>
+<li><p><strong>更新 Flask 中的 MySQL的连接信息</strong>：
+为了确保 Flask 应用程序能够成功连接到 MySQL 数据库，需要在 coalData.py 文件中更新 MySQL 的连接信息。定位代码段：</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># url格式 mysql://&lt;用户名&gt;:&lt;密码&gt;@127.0.0.1:3306/coaldata?charset=utf8</span>
+<span class="n">app</span><span class="o">.</span><span class="n">config</span><span class="p">[</span><span class="s1">&#39;SQLALCHEMY_DATABASE_URI&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="s1">&#39;mysql://root:123456@127.0.0.1:3306/coaldata?charset=utf8&#39;</span>
+
+<span class="c1"># 开启 SQLAlchemy 的事件监听功能</span>
+<span class="n">app</span><span class="o">.</span><span class="n">config</span><span class="p">[</span><span class="s1">&#39;SQLALCHEMY_TRACK_MODIFICATIONS&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="kc">True</span>
+</pre></div>
+</div>
+</li>
+</ol>
+</section>
+<section id="ssh">
+<h2>SSH远程服务器运行网站(可选)<a class="headerlink" href="#ssh" title="Permalink to this heading"></a></h2>
+<blockquote>
+<div><p>开发环境：运行后端python算法命令：
+通过ssh运行服务器上的前端：</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>ssh<span class="w"> </span>-L5000:localhost:5000<span class="w"> </span>liuhaodong@211.68.155.21
+conda<span class="w"> </span>activate<span class="w"> </span>coke
+<span class="nb">cd</span><span class="w"> </span>smart-coking/smart-coking-system-newpc_2/Flask
+python<span class="w"> </span>login.py
+</pre></div>
+</div>
+<p>再新建一个命令窗口运行前端网页：</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>ssh<span class="w"> </span>-L<span class="w"> </span><span class="m">8080</span>:localhost:8080<span class="w"> </span>liuhaodong@211.68.155.21
+<span class="nb">cd</span><span class="w"> </span>smart-coking/smart-coking-system-newpc_2/Flask
+npm<span class="w"> </span>run<span class="w"> </span>serve
+</pre></div>
+</div>
+<p>用 <a class="reference external" href="http://localhost:8080">http://localhost:8080</a> 在本地访问服务器</p>
+<p>生产环境：
+Nginx + 打包后静态文件</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>npm<span class="w"> </span>run<span class="w"> </span>build
+sudo<span class="w"> </span>systemctl<span class="w"> </span>reload<span class="w"> </span>nginx
+</pre></div>
+</div>
+<p>后端使用 Gunicorn常驻后台</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>pkill<span class="w"> </span>-f<span class="w"> </span>gunicorn
+gunicorn<span class="w"> </span>-w<span class="w"> </span><span class="m">4</span><span class="w"> </span>-b<span class="w"> </span><span class="m">0</span>.0.0.0:5000<span class="w"> </span>login:app
+</pre></div>
+</div>
+</div></blockquote>
+<hr class="docutils" />
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="overview.html" class="btn btn-neutral float-left" title="概述" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../api/coalData.html" class="btn btn-neutral float-right" title="coalData module" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2024, Yuhang Qiu, Haodong Liu.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
