@@ -2,11 +2,11 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]      # 监听 main 分支
-  workflow_dispatch:      # 支持手动触发
+    branches: [main]
+  workflow_dispatch:
 
-permissions:              # Pages 新权限模型
-  contents: write         # 允许推送 gh-pages
+permissions:
+  contents: write
   pages: write
   id-token: write
 
@@ -17,18 +17,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: 18          # 不加引号也行
 
       - name: Install dependencies
-        run: npm ci          # 如果用 yarn 换成 yarn install
+        run: npm ci
 
       - name: Build
-        run: npm run build   # 产物默认在 dist/
+        run: npm run build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist           # 若产物目录不同请改这里
+          publish_dir: ./dist
