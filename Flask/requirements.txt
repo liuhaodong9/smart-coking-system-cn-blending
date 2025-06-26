@@ -11,9 +11,6 @@ scipy==1.14.1
 joblib==1.4.2
 
 tensorflow==2.16.1
-# 如仅需 Keras 高层，可改用：
-# keras==3.3.3
-# onnxruntime==1.18.0
 
 blinker==1.8.2
 click==8.1.7
