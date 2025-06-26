@@ -11,7 +11,7 @@ app.config['JSON_AS_ASCII'] =False
 CORS(app, supports_credentials=True)
 CORS(app, resources={r'/*': {'origins': '*'}})
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:123456@127.0.0.1:3306/coaldata?charset=utf8' #访问数据库
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:VRbGevUevGcjVjRveiLIZGJKmptizWRT@mainline.proxy.rlwy.net:41959/railway' #访问数据库
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
 
 db = SQLAlchemy(app)
